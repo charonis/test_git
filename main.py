@@ -11,5 +11,5 @@ def devoidet(x: int , y: int ):
     return x / y
 
     
-print( myPlass(5, 10))
+print( myPlass(int(input()), int(input())))
 
